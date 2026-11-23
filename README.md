@@ -73,4 +73,5 @@ Notes:
 
 Made by HA7DN, 2023
 
-Contributors: HG3PE Pepó
+Added NMHH data source with map layers: HG3PE Pepó, 2026
+
